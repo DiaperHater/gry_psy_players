@@ -1211,7 +1211,8 @@ section {
 }
 @media screen and (max-width: 730px) {
   .intro .intro-bg .image-bg__outter {
-    width: 60%;
+    width: 63vw;
+    height: 63vw;
     left: -75px;
   }
   .s7 {
@@ -1238,11 +1239,6 @@ section {
   }
   .intro .intro__content .intro__title {
     width: 55%;
-  }
-  .intro .intro-bg .image-bg__outter {
-    height: 100%;
-    width: 60%;
-    top: -120px;
   }
   .program-section .program-section__topcs-list::before {
     left: 30%;
@@ -1315,14 +1311,10 @@ section {
     border-radius: 10px;
     padding: 10px;
   }
-  .intro .intro-bg {
-    width: 481px;
-    height: 100vh;
-    overflow: hidden;
-  }
   .intro .intro-bg .image-bg__outter {
-    top: 0;
+    left: -50px;
   }
+
   .s4 .s4__body {
     display: block;
   }
@@ -1352,6 +1344,12 @@ section {
 
   .intro .intro__content .intro__title .intro-benefits__block {
     top: 316px;
+  }
+
+  .intro .intro-bg .image-bg__outter {
+    width: 255px;
+    height: 255px;
+    left: -80px;
   }
 
   .intro .intro-bg .image-bg__outter .image-bg__inner .intro__bg1-img {
