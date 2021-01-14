@@ -1,0 +1,23 @@
+@font-face{
+	font-family: 'Museo';
+	font-weight: 500;
+	font-style: normal;
+	src: url('museo_sans_cyrl_500.woff') format('woff'),
+		 url('museo_sans_cyrl_500.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Museo';
+	font-weight: 700;
+	font-style: normal;
+	src: url('museo_sans_cyrl_700.woff') format('woff'),
+		 url('museo_sans_cyrl_700.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'Museo';
+	font-weight: 900;
+	font-style: normal;
+	src: url('museo_sans_cyrl_900.woff') format('woff'),
+		 url('museo_sans_cyrl_900.ttf') format('truetype');
+}
