@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="fonts/stylesheet.css">
 	<link rel="stylesheet" href="css/style.css">
-	<title>Развитие Психологии Вратаря</title>
+	<title>Развитие Психологии Хоккеиста</title>
 </head>
 <body>
 	
