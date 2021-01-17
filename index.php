@@ -90,7 +90,7 @@
 			<div class="intro__content">
 				
 				<div class="intro__title">
-					<h1 class="title-intro__main">Развитие<br>психологии вратаря</h1>
+					<h1 class="title-intro__main">Развитие<br>психологии хоккеиста</h1>
 					<div class="title-intro__secondary">
 						<h2 class="secondary-intro-title__text">
 							10-дневная программа
@@ -101,7 +101,8 @@
 					</div>
 					<div class="intro-description__wrapper">
 						<p>
-							Каждый день ваш ребенок будет Фокусироваться на каком то одном элементе психологии вратаря и внедрять новую привычку в свою игру
+							Каждый день ваш ребенок будет Фокусироваться на каком то 
+							одном элементе психологии полевого игрока и внедрять новую привычку в свою игру
 						</p>
 					</div>
 					<div class="intro-benefits__block">
@@ -143,7 +144,7 @@
 			<div class="image-bg__outter">
 				<div class="image-bg__inner">
 					<img src="img/png/logo.png" class="intro__bg1-img" alt="">
-					<img src="img/png/vlad.png" class="intro__bg2-img" alt="">
+					<img src="img/png/player-main-min.png" class="intro__bg2-img" alt="">
 				</div>
 			</div>
 			
@@ -166,7 +167,7 @@
 								</h4>
 							</div>
 							<div class="topic__image">
-								<img src="img/day-1-min.jpg" alt="">
+								<img src="img/play-1-min.jpg" alt="">
 							</div>
 						</div>
 						<div class="topic-right-block">
@@ -188,7 +189,7 @@
 									</div>
 									<div class="item__caption">
 										<p class="caption-text">
-											Дисциплина и дисциплина мышления. Почему это важно? С чего начинается дисциплина? Как она влияет на игру вратаря ?
+											Дисциплина и дисциплина мышления. Почему это важно? С чего начинается дисциплина? Как она влияет на твою игру ?
 										</p>
 									</div>
 								</div>
@@ -206,7 +207,7 @@
 								</h4>
 							</div>
 							<div class="topic__image">
-								<img src="img/day-2-min.jpg" alt="">
+								<img src="img/play-2-min.jpg" alt="">
 							</div>
 						</div>
 						<div class="topic-right-block">
@@ -227,7 +228,7 @@
 									</div>
 									<div class="item__caption">
 										<p class="caption-text">
-											 Как оставаться холоднокровным?
+											 Тревожность, мандраж, волнение. Как оставаться холоднокровным? 
 										</p>
 									</div>
 								</div>
@@ -255,7 +256,7 @@
 								</h4>
 							</div>
 							<div class="topic__image">
-								<img src="img/day-3-min.jpg" alt="">
+								<img src="img/play-3-min.jpg" alt="">
 							</div>
 						</div>
 						<div class="topic-right-block">
@@ -280,6 +281,16 @@
 										</p>
 									</div>
 								</div>
+								<div class="points__item">
+									<div class="item__icon">
+										<img src="img/png/white-circle.png" alt="">
+									</div>
+									<div class="item__caption">
+										<p class="caption-text">
+											 Психологическое давление. Как с ним справиться? Как не скиснуть когда ты попадаешь в 4-ю пятёрку или 2-й состав?
+										</p>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -293,7 +304,7 @@
 								</h4>
 							</div>
 							<div class="topic__image">
-								<img src="img/day-4-min.jpg" alt="">
+								<img src="img/play-4-min.jpg" alt="">
 							</div>
 						</div>
 						<div class="topic-right-block">
@@ -331,7 +342,7 @@
 								</h4>
 							</div>
 							<div class="topic__image">
-								<img src="img/day-5-min.jpg" alt="">
+								<img src="img/play-5-min.jpg" alt="">
 							</div>
 						</div>
 						<div class="topic-right-block">
@@ -342,7 +353,7 @@
 									</div>
 									<div class="item__caption">
 										<p class="caption-text">
-											 Урок в формате вопрос-ответ с вратарём КХЛ
+											 Урок в формате вопрос-ответ с игроком КХЛ
 										</p>
 									</div>
 								</div>
@@ -363,9 +374,7 @@
 					</div>
 					<div class="s3__text">
 						<p>
-							Ваш ребенок будет Фокусироваться на каком то одном элементе 
-							психологии вратаря и внедрять новую привычку 
-							в свою игру.
+							Ваш ребенок будет Фокусироваться на каком то одном элементе психологии полевого игрока и внедрять новую привычку в свою игру.
 						</p>
 					</div>
 				</div>
@@ -442,7 +451,7 @@
 						</div>
 						<div class="s4__card-text">
 							<p>
-								Расклеиваетесь после нескольких пропущенных шайб
+								Расклеиваетесь после нескольких неудачных моментов
 							</p>
 						</div>
 					</div>
@@ -505,7 +514,7 @@
 							<div class="s6__caption--inner">
 								<p>
 									<span>Риша Плехова</span> - Спортивный психолог, работающий с именитыми 
-									вратарями, выступающими в КХЛ и НХЛ, а также с теми, кто 
+									хоккеистами, выступающими в КХЛ и НХЛ, а также с теми, кто 
 									защищает честь страны в Национальной сборной на Олимпийских 
 									играх и чемпионатах мира. Сотрудничает с Топовыми мировыми
 									 агенствами и работает с их клиентами.
@@ -545,110 +554,22 @@
 					<div class="s7__slider-body">
 						<div class="s7__slider-item s7__slider-item-1">
 							<div class="s7__slider-item__inner">
-								<div class="s7__slider-item__header">
-									<div class="s7__slider-item-header__image">
-										<img src="img/face-1.jpg" alt="">
-									</div>
-									<div class="s7__slider-item-header__meta">
-										<div class="s7__slider-item-header__name-wrap">
-											<h5>Баста Раймс</h5>
-										</div>
-										<div class="s7__slider-item-header__info-wrap">
-											<p>Вратарь КХЛ хк"Салават Юлаев"</p>
-										</div>
-									</div>
-								</div>
-								<div class="s7__slider-item__body">
-									<div class="s7__slider-item-body__text-wrap">
-										<p>
-											Lorem ipsum dolor sit, amet, consectetur 
-											adipisicing elit. Quis, qui ratione laudantium 
-											vitae molestiae maxime quod veritatis blanditiis ea at!
-										</p>
-									</div>
-								</div>
+								<img src="img/reviews/rev-1.jpg" alt="">
 							</div>
 						</div>						
 						<div class="s7__slider-item s7__slider-item-2">
 							<div class="s7__slider-item__inner">
-								<div class="s7__slider-item__header">
-									<div class="s7__slider-item-header__image">
-										<img src="img/face-2.jpg" alt="">
-									</div>
-									<div class="s7__slider-item-header__meta">
-										<div class="s7__slider-item-header__name-wrap">
-											<h5>Хенрик Лундквист</h5>
-										</div>
-										<div class="s7__slider-item-header__info-wrap">
-											<p>Член олимпийской сборной России</p>
-										</div>
-									</div>
-								</div>
-								<div class="s7__slider-item__body">
-									<div class="s7__slider-item-body__text-wrap">
-										<p>
-											Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-											Architecto eligendi beatae voluptatibus debitis voluptatum 
-											recusandae neque quidem, nostrum, sapiente facere veritatis nesciunt, 
-											odio nisi numquam, qui? Eius minima molestiae quis, necessitatibus et, eum 
-											fuga nisi!
-										</p>
-									</div>
-								</div>
+								<img src="img/reviews/rev-2.jpg" alt="">
 							</div>
 						</div>
 						<div class="s7__slider-item s7__slider-item-3">
 							<div class="s7__slider-item__inner">
-								<div class="s7__slider-item__header">
-									<div class="s7__slider-item-header__image">
-										<img src="img/face-3.jpeg" alt="">
-									</div>
-									<div class="s7__slider-item-header__meta">
-										<div class="s7__slider-item-header__name-wrap">
-											<h5>Халк хоган</h5>
-										</div>
-										<div class="s7__slider-item-header__info-wrap">
-											<p>Чемпион WWA</p>
-										</div>
-									</div>
-								</div>
-								<div class="s7__slider-item__body">
-									<div class="s7__slider-item-body__text-wrap">
-										<p>
-											Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-											Architecto eligendi beatae voluptatibus debitis voluptatum 
-											recusandae neque quidem, nostrum, sapiente facere veritatis nesciunt, 
-											odio nisi numquam, qui? Eius minima molestiae quis, necessitatibus et, eum 
-											fuga nisi!
-										</p>
-									</div>
-								</div>
+								<img src="img/reviews/rev-3.jpg" alt="">
 							</div>
 						</div>
 						<div class="s7__slider-item s7__slider-item-4">
 							<div class="s7__slider-item__inner">
-								<div class="s7__slider-item__header">
-									<div class="s7__slider-item-header__image">
-										<img src="img/face-4.jpg" alt="">
-									</div>
-									<div class="s7__slider-item-header__meta">
-										<div class="s7__slider-item-header__name-wrap">
-											<h5>Саб Зерро</h5>
-										</div>
-										<div class="s7__slider-item-header__info-wrap">
-											<p>Мортал комбат легенда</p>
-										</div>
-									</div>
-								</div>
-								<div class="s7__slider-item__body">
-									<div class="s7__slider-item-body__text-wrap">
-										<p>
-											Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-											Architecto eligendi beatae voluptatibus debitis voluptatum 
-											recusandae neque quidem, nostrum, sapiente facere veritatis nesciunt
-										</p>
-									</div>
-								</div>
+								<img src="img/reviews/rev-4.jpg" alt="">
 							</div>
 						</div>
 					</div>
@@ -675,8 +596,7 @@
 					<div class="s8__age">Возраст участников от <span>10</span> лет</div>
 					<div class="s8__info">
 						Количество мест в группе ограниченно до 30 человек<br>
-						<span>*</span> За каждого приведённого вами вратаря 1000 руб. скидка. <br>
-						Если приведёте 7 вратарей, то курс получится бесплатный )
+						<span>*</span> за каждого приведённого вами хоккеиста ( можно и вратарей) 1000 руб. скидка.<br>Если приведёте 7 хоккеистов, то курс получится бесплатный )
 					</div>
 					<a href="#contact" class="s8__registartion-btn">
 						регистрация
@@ -697,7 +617,6 @@
 			<div class="s9__block">
 				<div class="s9__inner">
 					<h3 class="s9__title">Оставить заявку</h3>
-
 					<form action="mailer.php" method="post" class="s9__submit-form">
 						<div class="s9__name">
 							<div class="s9__name__label">
@@ -732,7 +651,7 @@
 					<img src="img/png/logo.png" alt="">
 				</div>
 				<div class="footer__text">
-					Школа вратарей IGS
+					Школа хоккейного мастерства IGS
 				</div>
 			</div>
 		</div>
@@ -747,6 +666,6 @@
 		echo "<script>alert('Спасибо {$_GET['name']} ваша заявка отправлена')</script>";
 	}
 	if(isset($_GET["error"])) {
-		echo "<script>alert('Ошибка сервера приема заявок! Заявка не отправлена! \\r\\nПожалуйста попробуйте завтра \\r\\nПриносим свои извинения')</script>";
+		echo "<script>alert('Ошибка сервиса приема заявок! Заявка не отправлена! \\r\\nПожалуйста попробуйте еще раз или в другой день \\r\\nПриносим свои извинения')</script>";
 	}
 ?>
