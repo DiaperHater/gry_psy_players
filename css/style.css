@@ -472,7 +472,7 @@ section {
   overflow: hidden;
   position: relative;
   overflow: hidden;
-  transform: translateY(50%);
+  transform: translateY(200%);
   transition: 0.6s all;
 }
 .program-section .program-section__topcs-list .s2__topic .topic__content .topic-right-block {
